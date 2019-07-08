@@ -1,0 +1,12 @@
+@charset UTF-8;
+
+canvas{
+    border:solid #999999 1px;
+}
+
+#buttons{
+    background-color:#CCCCCC;
+    border:solid #999999 1px;
+    width:620px;
+    padding:10px;
+}
