@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>らくがき帳</title>
+<title>らくがき帳（TEST！）</title>
 <link rel="stylesheet"
 	href="${pageContext.request.contextPath}/css/draw.css">
 </head>
